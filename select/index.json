@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "サインはB -ルビー Solo Ver.-",
   "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）",
-  "createdAt": "2025-12-18T15:19:25.953433Z",
+  "createdAt": "2025-12-28T16:13:18.248673Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -24,17 +24,17 @@
       "id": "lrclib_3",
       "source": "lrclib",
       "title": "サインはB -ルビー Solo Ver.-",
-      "artist": "B小町 ルビー(CV：伊駒ゆりえ)",
+      "artist": "B小町 ルビー(CV.伊駒ゆりえ)",
       "has_synced": true,
-      "path": "select/03_サインはB_-ルビー_Solo_Ver.-_B小町_ルビー(CV_伊駒ゆりえ).lrc"
+      "path": "select/03_サインはB_-ルビー_Solo_Ver.-_B小町_ルビー(CV.伊駒ゆりえ).lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
       "title": "サインはB -ルビー Solo Ver.-",
-      "artist": "B小町 ルビー(CV.伊駒ゆりえ)",
+      "artist": "B小町 ルビー(CV：伊駒ゆりえ)",
       "has_synced": true,
-      "path": "select/04_サインはB_-ルビー_Solo_Ver.-_B小町_ルビー(CV.伊駒ゆりえ).lrc"
+      "path": "select/04_サインはB_-ルビー_Solo_Ver.-_B小町_ルビー(CV_伊駒ゆりえ).lrc"
     },
     {
       "id": "lrclib_5",
